@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` is applied to an element, causing the entire element to be blurred, including its children.  This can be undesired if the children should remain sharp.
