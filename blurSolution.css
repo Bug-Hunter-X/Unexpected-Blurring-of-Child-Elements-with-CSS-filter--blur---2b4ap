@@ -1,0 +1,12 @@
+/* blurSolution.css */
+.container {
+  /* No filter applied to the container */
+}
+
+.blurred-element {
+  filter: blur(5px);
+}
+
+.sharp-element {
+  /* Remains sharp */
+} 
